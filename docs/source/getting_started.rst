@@ -9,7 +9,7 @@ TYP 1 - QUICK INFO
 -------
 Der Aufbau von **Typ 1** ist :
 
-1.(Definition / Bild) oder (Bild / Definition)
+1. Definition / Bild
 2. Unterpunkte ggf ergänzende Bilder
 
 Die meisten Aufgaben in ``AP1`` sind **multiple choice**.
