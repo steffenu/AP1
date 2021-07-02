@@ -1,4 +1,4 @@
-**"IT gestützer Arbeitsplatz"** - IHK Zwischenprüfung!
+**"IT gestützter Arbeitsplatz"** - IHK Zwischenprüfung!
 =======================================================
 
 .. meta::
