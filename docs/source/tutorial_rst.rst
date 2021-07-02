@@ -7,6 +7,54 @@ Tutorial
 
 
 
+Beispiel für Typ1
+***********************************
+
+.. code-block::
+
+        TYP 1 TITLE
+        ###########
+
+        .. admonition:: Defintion
+
+            Dies ist die definition des Thema / Kurze Einleitung
+
+
+        .. image:: url or file path here
+           :alt:  Alternaitve Text
+           :scale: 25
+
+
+        Extra Text falls benötigt
+
+        * stichpunkt
+        * stichpunkt
+
+        1. nummerierter stichpunkt
+
+        2. nummerierter stichpunkt
+
+        Heading
+        ************
+
+        Text hier ... lalalla
+
+        BILD ggf
+
+        Subheading
+        ~~~~~~~~~~~~
+
+        Text hier , **fetter text** , *kursiver text* , ``monospaced``
+
+        BILD ggf
+
+        .. warning::
+
+            - LINK  : https://mein_weiterführender_Artikel
+
+            - LINK 2  : https://mein_weiterführender_Artikel
+
+
 Titel , Bild ,  und DefinitionsBox
 ***********************************
 
@@ -19,6 +67,7 @@ Ein Titel ist immer nötig am start des Dokuments:
     Dokument Titel
     ==============
 
+Danach soll eine Definitionsbox kommen.
 
 2. Definition
 
@@ -27,6 +76,8 @@ Ein Titel ist immer nötig am start des Dokuments:
     .. admonition:: Definitions Text Titel
 
         Defintions Box Text
+
+Dann ein Bild (Bild / Definition auch vertauschbar)
 
 3. Bild
 
@@ -91,52 +142,6 @@ Für Definitionen / wichtige Infos würde ich es gut finden die wichitigen Infor
     monospace = ``inhalt hier``
 
 
-Beispiel für Typ1
-***********************************
-
-.. code-block::
-
-        TYP 1 TITLE
-        ###########
-
-        .. admonition:: Defintion
-
-            Dies ist die definition des Thema / Kurze Einleitung
-
-
-        .. image:: url or file path here
-           :alt:  Alternaitve Text
-           :scale: 25
-
-
-        Extra Text falls benötigt
-
-        * stichpunkt
-        * stichpunkt
-
-        1. nummerierter stichpunkt
-
-        2. nummerierter stichpunkt
-
-        Heading
-        ************
-
-        Text hier ... lalalla
-
-        BILD ggf
-
-        Subheading
-        ~~~~~~~~~~~~
-
-        Text hier , **fetter text** , *kursiver text* , ``monospaced``
-
-        BILD ggf
-
-        .. warning::
-
-            - LINK  : https://mein_weiterführender_Artikel
-
-            - LINK 2  : https://mein_weiterführender_Artikel
 
 Zusätzlich habe ich noch 2 Extensions installiert |:metal:|
 
