@@ -51,6 +51,8 @@ Grüsse uns ! |:metal:|
    getting_started
    typ1
    typ2
+   dokumenterstellung
+   tutorial_rst
 
 
 .. toctree::

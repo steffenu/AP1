@@ -64,7 +64,6 @@ Blöcke gleicher Größe aufgeteilt werden, wobei diese Blöcke quasi im Reißve
 
 
 
-subtext
 
 :badge:`Vorteile,badge-success`
 ===============================
