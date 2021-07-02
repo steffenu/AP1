@@ -89,6 +89,6 @@ ihr könnt diese emojis überall einbinden |:pushpin:| in euren texten |:metal:|
 
 - sphinx panels - https://sphinx-panels.readthedocs.io/en/latest/ damit kann man kleine panels / boxen basteln und auch formatieren (wie ich sie auch in Thema "RAID" eingesetzt habe ...
 
-sofern ihr interesse daran habt euer seiten zu formatieren
+sofern ihr Interesse daran habt euer seiten zu formatieren
 schaut auf die seite und guckt was möglich ist...
 und wir bauen das ganze dann ein ;)
