@@ -25,17 +25,8 @@ https://ap1.readthedocs.io/en/latest/tutorial_rst.html
 
 Cheat Sheet : https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
 
-Dies ist eine einfache Syntax.
-Für unser Projekt beschränkt diese Syntax auf :
 
-* Titel
-* Defintion
-* Heading 1 , 2 , 3
-* Text
-* Fett , Kursiv , mono
-* Extra Syntax [optional]  für Emojis, Tabellen , Boxen
-
-Sprich ihr fügt eure Ausarbeitungen in eine ``.rst`` Datei ein , formatiert sie
+Ihr fügt eure Ausarbeitungen in eine ``.rst`` Datei ein , formatiert sie
 nach **Typ 1** oder **Typ2** ... und schickt sie mir bzw laded sie in unseren Google Drive ordner
 hoch.
 
