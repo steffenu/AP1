@@ -46,20 +46,10 @@ Grüsse uns ! |:metal:|
 
 .. toctree::
    :maxdepth: 0
+   :caption: Hinweise
 
    getting_started
-
-
-.. toctree::
-   :maxdepth: 0
-   :caption: typ1 struktur
-
    typ1
-
-.. toctree::
-   :maxdepth: 0
-   :caption: typ2 struktur
-
    typ2
 
 

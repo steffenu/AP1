@@ -1,4 +1,4 @@
-Typ 2 Titel
+Typ 2 Struktur
 =====================
 
 
