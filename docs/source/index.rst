@@ -10,8 +10,8 @@ für den Bereich It. Der **IT gestützte Arbeitsplatz**.
 Die AP1 (erster Teil der Abschlussprüfung) |:mage:|
     Die Zwischenprüfung (bzw. gestreckte Prüfung) **Einrichten eines IT gestützten Arbeitsplatzes**
     ist ``Teil 1`` der Abschlussprüfung und macht **20% deiner Gesamtnote** aus.
-    Die Prüfungszeit beträgt **90 Minuten**. Viele Themengebiete sind pures auswendiglernen
-    aufsaugen. Andere erfordern Übung. Wir machen dir beides easy |:smirk:|.
+    Die Prüfungszeit beträgt **90 Minuten**. Viele Themengebiete sind pures auswendiglernen.
+    Andere erfordern Übung. Wir machen dir beides easy |:smirk:|.
 
 
 
