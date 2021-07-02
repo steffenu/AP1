@@ -1,5 +1,5 @@
 Typ 1 Struktur
-=====================
+====================
 
 
 .. admonition:: Defintion

@@ -1,5 +1,5 @@
 Bearbeitungshinweise
-=====================
+======================
 
 .. admonition:: HOW TO Doc erstellung
 

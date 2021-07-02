@@ -1,5 +1,5 @@
 Typ 2 Struktur
-=====================
+====================
 
 
 .. admonition:: Defintion

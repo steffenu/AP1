@@ -1,5 +1,5 @@
 **"IT gestützer Arbeitsplatz"** - IHK Zwischenprüfung!
-======================================================
+=======================================================
 
 .. meta::
    :description lang=de:  Prüfungsvorbereitung für Die IHK Zwischenprüfung , IT gestützter Arbeitsplatz - Für IT Berufe.
