@@ -39,7 +39,7 @@ Grüsse uns ! |:metal:|
 .. tip::
     Geplant ist auch ein Doc für
     **AP2(Teil 2 Abschlussprüfung)** und ggf auch für die **Projektarbeit**.
-    Die Projektarbeit macht 50% aus.
+    Die Projektarbeit macht 50 % aus.
 
 **Viel Erfolg!**
 
