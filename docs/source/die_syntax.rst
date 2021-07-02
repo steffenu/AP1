@@ -1,6 +1,6 @@
-###########
-Die Syntax
-###########
+DIE SYNTAX
+====================
+
 
 .. code-block::
     \.. admonition:: Defintion
@@ -16,7 +16,7 @@ Die Syntax
 test
 
 Header 1
-===========
+****************
 
 Subheading Text ... lalalla
 
