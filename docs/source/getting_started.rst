@@ -12,6 +12,10 @@ Der Aufbau von **Typ 1** ist :
 1. Definition / Bild
 2. Unterpunkte ggf ergänzende Bilder
 
+Dieser Typ ist  für einfache Themen die man
+nur auswendig lernen muss.
+
+
 Die meisten Aufgaben in ``AP1`` sind **multiple choice**.
 Es geht darum das Thema kurz und bündig
 zu erklären.
@@ -33,15 +37,25 @@ TYP 2 - STEP BY STEP TUTORIAL
 4. Schritte erklären ( Bild + Erklärung)
 4. Übung / Beispiel
 
+Mit dem Typ 2 sollen Schritte erklärt und Übungen
+erstellt werden. Dabei soll sich an vergangen Prüfungen
+orientiert werden...
+
+Ich habe dazu noch 3 Zwischenprüfungen
+der vergangen Jahre (alte Ordnung).
+Werde schauen das ich das vllt einscanne und
+verteile ... bzw den jeweiligen bearbeitern
+fotos zukommen lasse.
+
 Walls of Text vermeiden , so einfach wie möglich
-erklären , Mit einem Beispiel.
+erklären , mit einem Beispiel.
+
 Desweiteren eine IHK AUfgabe + Lösung + Lüsungshinweise + Tipps beifügen.
 
-Mit dem Typ 2 soll man üben und mit  der  IHK Aufgabenstellung
-vertraut werden.
 
 Beispielthemen für  Step by Step Tutorials wären zB.
 Erstellung eines Netzplans , Gant Diagramm , UML , einfache SQL queries ... usw
+
 
 
 ====== ============

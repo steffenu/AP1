@@ -15,6 +15,16 @@ reStructuredText
 Ist eine spezialle Syntax die wir für dieses Projekt nutzen um aus ``.rst`` Dateièn
 **die HTML Seite für unser Projekt zu generieren.**
 
+.. image:: https://i.imgur.com/nLSjhMy.png
+   :alt:  IMAGE SYNTAX von URL
+   :scale: 100
+
+
+Auf  der Seite  Tutorial findet ihr einen Einstieg :
+https://ap1.readthedocs.io/en/latest/tutorial_rst.html
+
+Cheat Sheet : https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
+
 Dies ist eine einfache Syntax.
 Für unser Projekt beschränkt diese Syntax auf :
 
@@ -39,6 +49,8 @@ Diese besitzen ein **Preview** , so könnt ihr direkt sehen wie die Seite dann u
 Lade dir also Pycharm herunter , erstelle ein Projekt und erstelle eine ``.rst`` Datei.
 
 Oder nutze den Online Editor ... dieser speichert allerdings die Dateien nicht...
+VSCode hat  eine restructured text erweiterung ... habe ich
+ab nicht zum laufen bekommen..
 
 
 

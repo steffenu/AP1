@@ -10,7 +10,7 @@ Tutorial
 Titel , Bild ,  und DefinitionsBox
 ***********************************
 
-Als Einleitung möchten wir immer gerne :
+Ein Titel ist immer nötig am start des Dokuments:
 
 1. Titel
 
@@ -18,8 +18,6 @@ Als Einleitung möchten wir immer gerne :
 
     Dokument Titel
     ==============
-
-
 
 
 2. Definition
@@ -50,7 +48,7 @@ Als Einleitung möchten wir immer gerne :
 
 
 
-Die Sntax Zeichen unter den Titel , Heading , Subheading ...
+Die Syntax Zeichen unter den Titel , Heading , Subheading ...
 müssen immer mindestens genauso lang sein wie der Titel. ( länger ist  ok)
 
 
@@ -84,7 +82,7 @@ könnt ihr auch noch Subheadings nutzen ...
 Fett , Kursiv , Monospace
 ***********************************
 
-Für Definitionen würde ich es gut finden die wichitigen Informationen **fett** zu schreiben.
+Für Definitionen / wichtige Infos würde ich es gut finden die wichitigen Informationen **fett** zu schreiben.
 
 .. code-block::
 
@@ -93,7 +91,7 @@ Für Definitionen würde ich es gut finden die wichitigen Informationen **fett**
     monospace = ``inhalt hier``
 
 
-Fertiges Beispiel
+Beispiel für Typ1
 ***********************************
 
 .. code-block::
@@ -139,3 +137,14 @@ Fertiges Beispiel
             - LINK  : https://mein_weiterführender_Artikel
 
             - LINK 2  : https://mein_weiterführender_Artikel
+
+Zusätzlich habe ich noch 2 Extensions installiert |:metal:|
+
+
+* für Emojis : https://sphinxemojicodes.readthedocs.io/en/stable/
+
+* und Panels : https://sphinx-panels.readthedocs.io/en/latest/
+
+Ihr könnt dort mal reinschauen falls euch die basic
+formatierung nicht ausreicht ;) .
+Der Schnickschack sollte reichen.
