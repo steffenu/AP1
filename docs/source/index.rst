@@ -45,9 +45,23 @@ Grüsse uns ! |:metal:|
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 0
 
    getting_started
+
+
+.. toctree::
+   :maxdepth: 0
+   :caption: typ1 struktur
+
+   typ1
+
+.. toctree::
+   :maxdepth: 0
+   :caption: typ2 struktur
+
+   typ2
+
 
 .. toctree::
    :maxdepth: 2
