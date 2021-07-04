@@ -5,27 +5,25 @@
    :description lang=de:  Prüfungsvorbereitung für Die IHK Zwischenprüfung , IT gestützter Arbeitsplatz - Für IT Berufe.
 
 Wilkommen zu unserem DOC für den **Teil 1** der Abschlussprüfung
-für den Bereich It. Der **IT gestützte Arbeitsplatz**.
+für alle IT Berufe. Der **IT gestützte Arbeitsplatz**.
 
 Die AP1 (erster Teil der Abschlussprüfung) |:mage:|
     Die Zwischenprüfung (bzw. gestreckte Prüfung) **Einrichten eines IT gestützten Arbeitsplatzes**
     ist ``Teil 1`` der Abschlussprüfung und macht **20% deiner Gesamtnote** aus.
-    Die Prüfungszeit beträgt **90 Minuten**. Viele Themengebiete sind pures auswendiglernen.
-    Andere erfordern Übung. Wir machen dir beides easy |:smirk:|.
+    Die Prüfungszeit beträgt **90 Minuten**. |:smirk:|. Dieser Teil der Prüfung besteht
+    zu 95 % aus multiple choice Fragen und Zuordnungen.
+    Ihr werdet also hier zb noch kein Netzplan erstellen müssen sondern
+    nur mit den Begrifflichkeiten vertraut sein und zuordnen können.
+    Erst in der Abschlussprüfung ``AP2`` wird dies erweitert
+    und man geht davon aus das ihr die Inhalte auch komplett umsetzen könnt.
 
 
 
-STEP BY STEP Tutorials |:man_with_probing_cane:|
-    Wir erklären dir **STEP BY STEP** die Themen ,  welche
-    du dann komplett im Schlaf draufhaben wirst.
-    Es geht hierbei darum die IHK **Aufgabenstellungen zu kennen** und **systematisch**
-    diese  möglichst schnell lösen zu können. Also **Üben üben üben** dann klappt das!
-    Wir geben euch Tipps ;).
-
-Übungen an IHK Prüfungen angelehnt |:metal:|
-    Ziel dieses Docs ist die bestmöglichste Vorbereitung.
-    Daher liegt der **Laser Fokus** auf dem lösen der Prüfungsaufgaben.
+Übungen an IHK Prüfungen angelehnt  |:man_with_probing_cane:|
+    Ziel dieses Docs ist die bestmöglichste und zielgerichtete Vorbereitung.
+    Daher liegt der **Laser Fokus** auf dem lösen der Prüfungsaufgaben im ``AP1``.
     Das Wissen in den Docs ist also nicht mehr und nicht weniger als du brauchst.
+    Du wirst in deinem ``AP2`` Themen wiederfinden , wobei diese dann ausführlicher drankommen.
     Weiterführende Artikel werden wir verlinken um deinen Wissensdurst zu stillen :D.
 
 Grüsse uns ! |:metal:|
@@ -38,11 +36,17 @@ Grüsse uns ! |:metal:|
 
 .. tip::
     Geplant ist auch ein Doc für
-    **AP2(Teil 2 Abschlussprüfung)** und ggf auch für die **Projektarbeit**.
+    **AP2 (Teil 2 Abschlussprüfung)** und für die **Projektarbeit**.
     Die Projektarbeit macht 50% aus.
 
 **Viel Erfolg!**
 
+
+.. toctree::
+   :maxdepth: 0
+   :caption: Die Prüfung
+
+    was_erwartet
 
 .. toctree::
    :maxdepth: 0
