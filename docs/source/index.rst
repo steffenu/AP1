@@ -46,7 +46,8 @@ Grüsse uns ! |:metal:|
    :maxdepth: 0
    :caption: Die Prüfung
 
-    was_erwartet
+   was_erwartet
+
 
 .. toctree::
    :maxdepth: 0
