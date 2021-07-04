@@ -1,6 +1,19 @@
 Bearbeitungshinweise
 ======================
 
+Das Team :
+
+====== ============
+ID     Name
+====== ============
+1      Steffen
+2      Robert R.
+3      Sebastian
+4      Jürgen
+5      Henrik
+6      Robert U.
+====== ============
+
 .. admonition:: HOW TO Doc erstellung
 
   Mit den 2 Typen möchte ich definieren wie Themen bearbeitet werden sollen.
@@ -60,13 +73,7 @@ Erstellung eines Netzplans , Gant Diagramm , UML , einfache SQL queries ... usw
 
 
 
-====== ============
-ID     Name
-====== ============
-1      Steffen
-2      Robert
-3      N/A
-====== ============
+
 
 .. tip::
 
