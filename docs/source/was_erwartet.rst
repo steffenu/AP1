@@ -48,7 +48,7 @@ Um das Bild genauer zu malen :
 * In ``AP2`` erstellst du einen Netzplan. ( Umsetzen )
 
 Sofern du Themen in diesem DOC intensiv verinnerlicht hast ...
-Sollten dir dank multiple choice in AP1 die Auswahl leicht fallen.
+Sollten dir dank **multiple choice** in AP1 die Auswahl leicht fallen.
 
 Im Rückblick auf vergangene Zwischenprüfung gibt es in Ap1
 ein paar kleine Rechenaufgaben. Diese werden wir hier

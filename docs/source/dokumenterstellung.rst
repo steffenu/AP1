@@ -43,10 +43,3 @@ Oder nutze den Online Editor ... dieser speichert allerdings die Dateien nicht..
 VSCode hat  eine restructured text erweiterung ... habe ich
 ab nicht zum laufen bekommen..
 
-
-
-
-.. warning::
-    Projekt Syntax : https://raw.githubusercontent.com/steffenu/AP1/master/docs/source/die_syntax.rst
-
-
