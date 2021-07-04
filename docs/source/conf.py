@@ -38,7 +38,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 html_static_path = ['_static']
-html_logo = "undraw_feeling_proud_qne1.png"
+html_logo = "logo.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
