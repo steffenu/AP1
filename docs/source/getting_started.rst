@@ -12,6 +12,8 @@ Der Aufbau von **Typ 1** ist :
 1. Definition / Bild
 2. Unterpunkte ggf ergänzende Bilder
 
+Live sieht das Grundgerüst dann so aus : https://ap1.readthedocs.io/en/latest/typ1.html
+
 Dieser Typ ist  für einfache Themen die man
 nur auswendig lernen muss.
 

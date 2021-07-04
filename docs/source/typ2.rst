@@ -52,6 +52,18 @@ BILD
 
 BILD
 
+.. raw:: html
+
+   <details>
+   <summary><a>Die Lösung</a></summary>
+
+.. code-block:: python
+
+   Die Lösung ist Antwort C
+
+.. raw:: html
+
+   </details>
 
 Lösungshinweise
 ****************

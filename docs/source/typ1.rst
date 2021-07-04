@@ -28,6 +28,19 @@ Sub-Sub Heading ... wenn dein unterpunkt weitere unterpunkte hat
 BILD ggf
 
 IHK Fragenbeispiel
-****************
+********************
 
-Frage
+Fragestellung als text ( screenshot von Aufgabe - bevorzugt )
+
+.. raw:: html
+
+   <details>
+   <summary><a>Die Lösung</a></summary>
+
+.. code-block:: python
+
+   Die Lösung ist Antwort C
+
+.. raw:: html
+
+   </details>
