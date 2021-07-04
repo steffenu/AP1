@@ -1,18 +1,6 @@
 Bearbeitungshinweise
 ======================
 
-Das Team :
-
-====== ============
-ID     Name
-====== ============
-1      Steffen
-2      Robert R.
-3      Sebastian
-4      Jürgen
-5      Henrik
-6      Robert U.
-====== ============
 
 .. admonition:: HOW TO Doc erstellung
 
