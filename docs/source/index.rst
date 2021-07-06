@@ -41,9 +41,8 @@ Grüsse uns ! |:metal:|
 
 **Viel Erfolg!**
 
-DAS TEAM :
 
-Das Team ``AP1`` TEAM :
+Das ``AP1`` TEAM :
 
 ====== ============
 ID     Name

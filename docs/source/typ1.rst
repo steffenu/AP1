@@ -7,7 +7,7 @@ Typ 1 Struktur
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg
    :alt:  IMAGE SYNTAX von URL
-   :scale: 25
+   :scale: 50
 
 
 
