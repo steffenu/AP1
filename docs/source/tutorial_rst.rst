@@ -48,6 +48,24 @@ Beispiel für Typ1
 
         BILD ggf
 
+        IHK Fragenbeispiel
+        ********************
+
+        Fragestellung als text ( screenshot von Aufgabe - bevorzugt )
+
+        .. raw:: html
+
+           <details>
+           <summary><a>Die Lösung</a></summary>
+
+        .. code-block::
+
+           Die Lösung ist Antwort C
+
+        .. raw:: html
+
+           </details>
+
         .. warning::
 
             - LINK  : https://mein_weiterführender_Artikel
