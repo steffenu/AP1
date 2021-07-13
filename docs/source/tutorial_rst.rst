@@ -198,6 +198,47 @@ Für Definitionen / wichtige Infos würde ich es gut finden die wichitigen Infor
     monospace = ``inhalt hier``
 
 
+Bilder einfügen Google Drive
+***********************************
+
+1. Ladet eur Bild / Screenshot als jpg oder png
+in den Google Drive "BILDER Ordner"
+
+2. Macht rechtsklick auf das Bild "Get Link" , danach Copy link.
+aus der url (beispiel url)
+https://drive.google.com/file/d/1ghnpNT8LY8rkSwNuaXhNI5hFzm7IzquB/view?usp=sharing
+kopiert ihr diesen teil : 1ghnpNT8LY8rkSwNuaXhNI5hFzm7IzquB
+
+und hängt ihn an diese url an :
+https://drive.google.com/uc?export=download&id=
+
+3. Dann habt ihr den fertigen link
+https://drive.google.com/uc?export=download&id=1ghnpNT8LY8rkSwNuaXhNI5hFzm7IzquB
+
+4. nutzt ihn in eurer .rst datei dann wie folgt
+
+.. code-block::
+
+    .. image:: https://drive.google.com/uc?export=download&id=1_MYgo5qgdttB5z6xALoE_73HI69VS6Ey
+
+
+Bilder einfügen über IMGUR Webseite
+*************************************
+
+1. Macht euren Screenshot mit Win + Shift + s
+2. Geht zu https://imgur.com
+3. Drückt strg + v
+4. Rechtsklick auf das bild ( bildadresse kopieren)
+5. dann wie gewohnt bild einfügen mit
+
+.. code-block::
+
+    .. image:: https://i.imgur.com/DEINLINK.png
+
+
+
+
+
 
 Zusätzlich habe ich noch 2 Extensions installiert |:metal:|
 
