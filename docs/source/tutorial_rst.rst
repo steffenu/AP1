@@ -105,21 +105,59 @@ Dann ein Bild (Bild / Definition auch vertauschbar)
         :alt:  IMAGE SYNTAX von URL
         :scale: 25
 
-4. Headings , Subheadings
+
+
+4. Headings , Subheadings + Text
 
 .. code-block::
 
         Heading
         *******
+        Mein Text
 
         Subheading
         ~~~~~~~~~~
-
+        Mein Text
 
 
 Die Syntax Zeichen unter den Titel , Heading , Subheading ...
 müssen immer mindestens genauso lang sein wie der Titel. ( länger ist  ok)
 
+
+5. IHK AUFGABE SCREENSHOT
+
+.. code-block::
+
+    .. image::  url or filepath
+
+
+
+6. LÖSUNG / Aufklabar
+
+.. code-block::
+
+        .. raw:: html
+
+           <details>
+           <summary><a>Die Lösung</a></summary>
+
+        .. code-block::
+
+           Die Lösung ist Antwort C
+
+        .. raw:: html
+
+           </details>
+
+7. Weiterführende Links
+
+.. code-block::
+
+        .. warning::
+
+            - LINK  : https://mein_weiterführender_Artikel
+
+            - LINK 2  : https://mein_weiterführender_Artikel
 
 
 
