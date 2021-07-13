@@ -236,10 +236,6 @@ Bilder einfügen über IMGUR Webseite
     .. image:: https://i.imgur.com/DEINLINK.png
 
 
-
-
-
-
 Zusätzlich habe ich noch 2 Extensions installiert |:metal:|
 
 
