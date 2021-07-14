@@ -75,6 +75,7 @@ ID     Name
    typ2
    dokumenterstellung
    tutorial_rst
+   edit_github
 
 
 .. toctree::
