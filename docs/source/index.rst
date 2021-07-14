@@ -88,6 +88,7 @@ ID     Name
    :caption: 02 - Informieren und Beraten
 
    02/01_marktformen
+   02/upselling_crossselling
 
 .. toctree::
    :maxdepth: 2
