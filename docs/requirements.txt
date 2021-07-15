@@ -4,4 +4,5 @@ sphinx-rtd-theme==0.5.2
 Sphinx==4.0.2
 sphinxemoji==0.1.8
 sphinx-comments==0.0.3
+sphinxcontrib.youtube==0.1.2
 
