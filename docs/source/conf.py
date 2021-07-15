@@ -27,7 +27,7 @@ author = 'steffenu'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
-extensions = ['sphinx_panels','sphinxemoji.sphinxemoji','sphinx_copybutton' , 'sphinx_comments' , 'sphinxcontrib.yt']
+extensions = ['sphinx_panels','sphinxemoji.sphinxemoji','sphinx_copybutton' , 'sphinx_comments']
 
 comments_config = {
     "utterances": {
