@@ -71,7 +71,6 @@ ID     Name
    :maxdepth: 0
    :caption: Hinweise
 
-   getting_started
    typ1
    typ2
    dokumenterstellung

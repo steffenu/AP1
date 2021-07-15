@@ -27,8 +27,14 @@ author = 'steffenu'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
-extensions = ['sphinx_panels','sphinxemoji.sphinxemoji','sphinx_copybutton']
+extensions = ['sphinx_panels','sphinxemoji.sphinxemoji','sphinx_copybutton' , 'sphinx_comments']
 
+comments_config = {
+    "utterances": {
+        "repo": "steffenu/AP1",
+        "optional": "config",
+    }
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
