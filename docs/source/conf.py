@@ -46,7 +46,7 @@ exclude_patterns = []
 html_static_path = ['_static']
 html_logo = "logo.png"
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
     'display_version': False,
 }
 
