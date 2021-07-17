@@ -85,6 +85,7 @@ ID     Name
    01/00_intro
    01/01_gantt
    01/02_netzplan
+   01/01_05_arbeitsaufgaben_planen(WIP)
 
 .. toctree::
    :maxdepth: 2

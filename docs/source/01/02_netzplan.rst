@@ -10,7 +10,7 @@ Netzplan
 .. image:: https://drive.google.com/uc?export=download&id=1hNHAhH2rZAGmSBBxrkl3PmnA6JBAUz98
      :alt:  Freigabe benötigt
 
-* ``#``
+
 
 =====  =====================================================================================================
 FAZ    Der **früheste mögliche Anfangszeitpunkt** zeigt an ,
@@ -28,7 +28,7 @@ SAZ    Der **späteste mögliche Anfangszeitpunkt** zeigt an, dass dieser Vorgan
 =====  =====================================================================================================
 
 
-* ``#``
+
 
 Netzpläne - Berechnungen
 **************************
