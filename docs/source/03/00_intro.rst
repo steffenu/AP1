@@ -1,4 +1,4 @@
-Intro - Planen - Vorbereiten , Durchführen
+Intro
 ==============================================
 
 .. admonition:: Was erwartet euch hier ?
