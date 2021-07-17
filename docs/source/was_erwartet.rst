@@ -9,8 +9,6 @@ AP1 - Gestreckte Abschlussprüfung
 
 
 
-
-
 Die Themengebiete
 ******************
 
@@ -97,14 +95,6 @@ immer rangekommen sind identiizieren können.
     Wir schauen das wir dich darauf hinweisen
     wo leicht Punkte zu holen sind.
 
-
-Wir haben zum lesen mehrere Ausgabeformate für euch
-vorbereitet |:metal:| :
-
-* Online Webseite :https://ap1.readthedocs.io/en/latest/index.html
-* Offline Webseite : https://ap1.readthedocs.io/_/downloads/en/latest/htmlzip/
-* pdf : https://ap1.readthedocs.io/_/downloads/en/latest/pdf/
-* epub : https://ap1.readthedocs.io/_/downloads/en/latest/epub/
 
 
 Alte und neue Prüfungsordnung
