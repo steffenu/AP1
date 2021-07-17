@@ -82,6 +82,7 @@ ID     Name
    :maxdepth: 2
    :caption: 01 - Planen
 
+   01/00_intro
    01/01_gantt
    01/02_netzplan
 
@@ -89,6 +90,7 @@ ID     Name
    :maxdepth: 2
    :caption: 02 - Informieren und Beraten
 
+   02/00_intro
    02/01_marktformen
    02/upselling_crossselling
 
@@ -96,6 +98,7 @@ ID     Name
    :maxdepth: 2
    :caption: 03 - IT Systeme beurteilen
 
+   03/00_intro
    03/01_pc_perepherie
    03/02_raid
 
@@ -103,24 +106,28 @@ ID     Name
    :maxdepth: 2
    :caption: 04 - Entwickeln, Betreuen
 
+   04/00_intro
    04/01_bedarfsanalyse
 
 .. toctree::
    :maxdepth: 2
    :caption: 05 - Durchführen , Dokumentieren
 
+   05/00_intro
    05/01_iso_9000
 
 .. toctree::
    :maxdepth: 2
    :caption: 06 - Umsetzen, Integrieren
 
+   06/00_intro
    06/01_bsi _grundschutz
 
 .. toctree::
    :maxdepth: 2
    :caption: 07 - Auftragsabschluss
 
+   07/00_intro
    07/01_vertragsarten
 
 
