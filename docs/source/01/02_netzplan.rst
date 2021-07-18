@@ -42,22 +42,6 @@ in einer Aufgabe erhalten wirst
 kannst du systematisch die folgenden
 Schritte abarbeiten.
 
-.. tip::
-
-    Für ``AP1`` genügt es die Begriffe zu kennen und den Ablauf
-    zu verstehen. Du kannst natürlich vorab üben.
-    Wenn du aufs IHK Beispiel (vergangene Zwischenprüfung)
-    siehst du was ich meine. |:grin:|
-
-
-.. tip::
-
-    Du wirst dann in der Abschlussprüfung ``AP2`` häufig
-    ``Gantt Diagramm`` , ``Netzplan``
-    finden und auch anwenden müssen. Vor allem das
-    Gantt Diagramm findet tatsächlich noch gebrauch
-    in der Praxis |:grin:|.
-
 1. Knoten verknüpfen
 2. Vorwärtsrechnung
 3. Rückwärtsrechnung
@@ -65,20 +49,40 @@ Schritte abarbeiten.
 5. Kritischen Pfad ermitteln
 
 
+.. tip::
+
+    Du wirst dann in der Abschlussprüfung ``AP2`` häufig
+    ``Gantt Diagramm`` , ``Netzplan``
+    finden und anwenden müssen. Vor allem das
+    Gantt Diagramm findet tatsächlich noch gebrauch
+    in der Praxis |:grin:|.
+
+
 Variationen in der Knotendarstellung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Je nachdem welche Quelle du nutzt,
-Sei es ein Lehrbuch , Wikipedia , oder
-eine beliebige Webseite.
+    Je nachdem welche Quelle du nutzt,
+    Sei es ein Lehrbuch , Wikipedia , oder
+    eine beliebige Webseite.
 
-Findest du kleine variationen
-wie ein Knoten Aufgebaut ist in der
-Zeichnerischen Darstellung.
+    Findest du kleine variationen
+    wie ein Knoten Aufgebaut ist in der
+    Zeichnerischen Darstellung.
 
 Soll uns aber nicht weiter Stören
 wir nehmen einfach die Darstellung
 von IHK Prüfungen |:mage:|.
+
+Der Ablauf erklärt.
+**************************
+
+.. tip::
+
+    Für ``AP1`` genügt es die Begriffe zu kennen und den Ablauf
+    grob zu verstehen. Du kannst natürlich vorab üben für ``AP2``.
+    Wenn du aufs IHK Beispiel (vergangene Zwischenprüfung)
+    schaust weist du warum ich meine du kannst erstmal
+    noch locker bleiben.
 
 
 
@@ -112,10 +116,6 @@ G	              5	                       E, F
 Schritt 1: Knoten verknüpfen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Netzpläne - Berechnungen
-**************************
-
 Schritt 2:Vorwärtsrechnung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -129,7 +129,7 @@ Schritt 5:  Kritischer Weg / Pfad
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :badge:`Vorteile,badge-success`
-===============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
  - Möglichkeit der Darstellung der logischen Abhängigkeiten zwischen Vorgängen
@@ -137,10 +137,10 @@ Schritt 5:  Kritischer Weg / Pfad
 
 
 :badge:`Nachteile,badge-danger`
-===============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  - Nicht so Anwenderfreundlich wie ein ``Gantt Diagramm``
- - Steigende Detaillierung eines Netzplanes ist unmittelbar mit steigendem Kontroll- und Revisionsaufwand
+ - Steigende Detaillierung eines Netzplanes ist unmittelbar mit steigendem Kontroll- und Revisionsaufwand verbunden
 
 
 IHK - Beispiel
