@@ -25,22 +25,122 @@ SEZ    Der **späteste mögliche Endzeitpunkt** zeigt an , wann dieser Vorgang s
 SAZ    Der **späteste mögliche Anfangszeitpunkt** zeigt an, dass dieser Vorgang spätestens zu diesem Termin
        begonnen werden muss, um das **zeitliche Ziel** des gesamten Projektes nicht zu gefährden
        .Zieht man vom SEZ die Vorgangsdauer ab, so erhält man den SAZ.
+GP     Der **Gesamtpuffer** des Vorganges gibt an , um welchen Zeitraum dieser Vorgang
+       verschoben werden kann, ohne das **zeitliche Ziel** des gesamten Projektes zu gefährden.
+       Er ergibt sich jeweils aus der Differenz der spätesten Anfangs- oder Endzeitpunkte und der
+       frühesten Anfangs oder Endzeitpunkte
+FP     **Freier Puffer**, der zur Verfügung steht, bevor der unmittelbar folgende Prozessschritt beeinflusst
+       wird
 =====  =====================================================================================================
 
 
+Netzplan erstellung - Schritte
+*******************************
+
+Mit der Tabelle die du in ``AP2``
+in einer Aufgabe erhalten wirst
+kannst du systematisch die folgenden
+Schritte abarbeiten.
+
+.. tip::
+
+    Für ``AP1`` genügt es die Begriffe zu kennen und den Ablauf
+    zu verstehen. Du kannst natürlich vorab üben.
+    Wenn du aufs IHK Beispiel (vergangene Zwischenprüfung)
+    siehst du was ich meine. |:grin:|
+
+
+.. tip::
+
+    Du wirst dann in der Abschlussprüfung ``AP2`` häufig
+    ``Gantt Diagramm`` , ``Netzplan``
+    finden und auch anwenden müssen. Vor allem das
+    Gantt Diagramm findet tatsächlich noch gebrauch
+    in der Praxis |:grin:|.
+
+1. Knoten verknüpfen
+2. Vorwärtsrechnung
+3. Rückwärtsrechnung
+4. Pufferzeiten berechnen
+5. Kritischen Pfad ermitteln
+
+
+Variationen in der Knotendarstellung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Je nachdem welche Quelle du nutzt,
+Sei es ein Lehrbuch , Wikipedia , oder
+eine beliebige Webseite.
+
+Findest du kleine variationen
+wie ein Knoten Aufgebaut ist in der
+Zeichnerischen Darstellung.
+
+Soll uns aber nicht weiter Stören
+wir nehmen einfach die Darstellung
+von IHK Prüfungen |:mage:|.
+
+
+
+Schritt 0 - Prozessschritte
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Eine Tabelle mit Prozesschritten
+ist der Ausgangspunkt in der Prüfung
+woran du dich orientierst und deinen Netzplan
+erstellen wirst.
+
+Wie gesagt üben kannst du das ganze dann in ``AP2``.
+Versuche für ``AP1`` einfach erstmal die Begriffe
+zu verstehen und den Ablauf.
+Es erwartet dich max eine mikrige multiple choice Frage
+dazu.
+
+===============  ===============           ===================
+Prozesschritte    Dauer in                 Vorher zu beenden
+                  Stunden
+---------------  ---------------           -------------------
+===============  ===============           ===================
+A	              2	                       -
+B	              4	                       A
+C	              3	                       B
+D	              2	                       B
+E	              1	                       C, D
+F	              4	                       C
+G	              5	                       E, F
+===============  ===============           ===================
+
+Schritt 1: Knoten verknüpfen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Netzpläne - Berechnungen
 **************************
 
-Vorwärtsrechnung
-~~~~~~~~~~~~~~~~~~
+Schritt 2:Vorwärtsrechnung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Rückwärtsrechnung
-~~~~~~~~~~~~~~~~~~
+Schritt 3:Rückwärtsrechnung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Kritischer Weg / Pfad
-~~~~~~~~~~~~~~~~~~~~~~~
+Schritt 4: Pufferzeiten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Schritt 5:  Kritischer Weg / Pfad
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:badge:`Vorteile,badge-success`
+===============================
+
+
+ - Möglichkeit der Darstellung der logischen Abhängigkeiten zwischen Vorgängen
+ - Netzpläne zwingen zum systematischen Durchdenken der Projektzusammenhänge
+
+
+:badge:`Nachteile,badge-danger`
+===============================
+
+ - Nicht so Anwenderfreundlich wie ein ``Gantt Diagramm``
+ - Steigende Detaillierung eines Netzplanes ist unmittelbar mit steigendem Kontroll- und Revisionsaufwand
 
 
 IHK - Beispiel
@@ -62,3 +162,9 @@ IHK - Beispiel
 .. raw:: html
 
    </details>
+
+.. tip::
+
+    - Quelle 1 : https://de.wikipedia.org/wiki/Netzplantechnik
+    - Quelle 2 : https://www.modu-learn.de/verstehen/management/netzplantechnik/
+    - Quelle 3 : Buch -Entwickeln und Bereitstellen von Anwendungssystemen
