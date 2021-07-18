@@ -65,16 +65,26 @@ Variationen in der Knotendarstellung
     Sei es ein Lehrbuch , Wikipedia , oder
     eine beliebige Webseite.
 
-    Findest du kleine variationen
+    Findest du kleine Variationen
     wie ein Knoten Aufgebaut ist in der
-    Zeichnerischen Darstellung.
+    zeichnerischen Darstellung.
 
 Soll uns aber nicht weiter Stören
 wir nehmen einfach die Darstellung
 von IHK Prüfungen |:mage:|.
 
-Der Ablauf erklärt.
+Der Ablauf erklärt für AP1
 **************************
+
+    *für die Lösung der IHK multiple choice Aufgabe*
+
+**Merke dir** :
+
+- Was ein Netzplan ist.
+
+- Wofür man ihn einsetzt.
+
+- Die Begriffe FAZ , FEZ , SEZ ... einordnen / unterscheiden können
 
 .. tip::
 
@@ -163,8 +173,22 @@ IHK - Beispiel
 
    </details>
 
+
+.. raw:: html
+
+    <br />
+    <br />
+
 .. tip::
 
     - Quelle 1 : https://de.wikipedia.org/wiki/Netzplantechnik
     - Quelle 2 : https://www.modu-learn.de/verstehen/management/netzplantechnik/
     - Quelle 3 : Buch -Entwickeln und Bereitstellen von Anwendungssystemen
+
+.. raw:: html
+
+    <br />
+    <br />
+
+
+ *Seite erstellt: Steffen*
