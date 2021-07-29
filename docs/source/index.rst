@@ -109,6 +109,7 @@ ID     Name
 
    04/00_intro
    04/01_bedarfsanalyse
+   04_06_lizenzen
 
 .. toctree::
    :maxdepth: 2

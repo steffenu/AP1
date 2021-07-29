@@ -42,11 +42,20 @@ in einer Aufgabe erhalten wirst
 kannst du systematisch die folgenden
 Schritte abarbeiten.
 
-1. Knoten verknüpfen
-2. Vorwärtsrechnung
-3. Rückwärtsrechnung
-4. Pufferzeiten berechnen
-5. Kritischen Pfad ermitteln
+Schritt 1: Knoten verknüpfen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Schritt 2: Vorwärtsrechnung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Schritt 3: Rückwärtsrechnung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Schritt 4: Pufferzeiten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Schritt 5: Kritischer Weg / Pfad
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. tip::
