@@ -185,11 +185,6 @@ IHK - Beispiel - Multiple Choice
     <br />
     <br />
 
-.. tip::
-
-    - Quelle 1 : https://de.wikipedia.org/wiki/Netzplantechnik
-    - Quelle 2 : https://www.modu-learn.de/verstehen/management/netzplantechnik/
-    - Quelle 3 : Buch -Entwickeln und Bereitstellen von Anwendungssystemen
 
 .. raw:: html
 
@@ -203,28 +198,42 @@ IHK - Beispiel - Abschlussprüfung
 
     Der ``Netzplan`` ist eine beliebte Aufgabe in den
     vergangenen Abschlussprüfungen gewesen.
-    Viele Punkte für simples ablesen und Zeichnen.
+    **Viele Punkte** für simples ablesen und Zeichnen. Gönn dir !
 
 AUFGABE :
-
-.. image:: https://drive.google.com/uc?export=download&id=1UE0pBbne-PZBqw4kl5cC7_qP79IBhLJ6
-     :alt:  Freigabe benötigt
-
-*LÖSUNGSHINWEISS* :
-
-.. image:: https://drive.google.com/uc?export=download&id=14c_x-MlhiSbUr6CtFjV1yq8MHBQidWmS
-     :alt:  Freigabe benötigt
-
-**
-
-LÖSUNG :
 
 .. image:: https://drive.google.com/uc?export=download&id=17SUPXEmnQu_J1p_Rqpg4HfckAIA5MvIP
     :alt:  Freigabe benötigt
 
 
 
+*LÖSUNGSHINWEISS* :
+
+.. image:: https://drive.google.com/uc?export=download&id=1UE0pBbne-PZBqw4kl5cC7_qP79IBhLJ6
+     :alt:  Freigabe benötigt
+
+
+
+**
+
+LÖSUNG :
+
+.. image:: https://drive.google.com/uc?export=download&id=14c_x-MlhiSbUr6CtFjV1yq8MHBQidWmS
+     :alt:  Freigabe benötigt
+
+
+
+
+
 .. image:: https://drive.google.com/uc?export=download&id=17SUPXEmnQu_J1p_Rqpg4HfckAIA5MvIP
      :alt:  Freigabe benötigt
+
+
+.. tip::
+
+    - Quelle 1 : https://de.wikipedia.org/wiki/Netzplantechnik
+    - Quelle 2 : https://www.modu-learn.de/verstehen/management/netzplantechnik/
+    - Quelle 3 : Buch -Entwickeln und Bereitstellen von Anwendungssystemen
+
 
  *Seite erstellt: Steffen*
