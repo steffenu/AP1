@@ -62,9 +62,7 @@ Schritt 5: Kritischer Weg / Pfad
 
     Du wirst dann in der Abschlussprüfung ``AP2`` häufig
     ``Gantt Diagramm`` , ``Netzplan``
-    finden und anwenden müssen. Vor allem das
-    Gantt Diagramm findet tatsächlich noch gebrauch
-    in der Praxis |:grin:|.
+    finden und anwenden müssen.  |:grin:|.
 
 
 Variationen in der Knotendarstellung
@@ -112,11 +110,7 @@ ist der Ausgangspunkt in der Prüfung
 woran du dich orientierst und deinen Netzplan
 erstellen wirst.
 
-Wie gesagt üben kannst du das ganze dann in ``AP2``.
-Versuche für ``AP1`` einfach erstmal die Begriffe
-zu verstehen und den Ablauf.
-Es erwartet dich max eine mikrige multiple choice Frage
-dazu.
+
 
 ===============  ===============           ===================
 Prozesschritte    Dauer in                 Vorher zu beenden
@@ -162,12 +156,15 @@ Schritt 5:  Kritischer Weg / Pfad
  - Steigende Detaillierung eines Netzplanes ist unmittelbar mit steigendem Kontroll- und Revisionsaufwand verbunden
 
 
-IHK - Beispiel
-**************************
+IHK - Beispiel - Multiple Choice
+**********************************
 
 
 .. image:: https://drive.google.com/uc?export=download&id=1v2CRCUG0aO1WT9q4F_Th4J6qHySIHw63
      :alt:  Freigabe benötigt
+
+
+
 
 .. raw:: html
 
@@ -199,5 +196,35 @@ IHK - Beispiel
     <br />
     <br />
 
+IHK - Beispiel - Abschlussprüfung
+**********************************
+
+.. tip::
+
+    Der ``Netzplan`` ist eine beliebte Aufgabe in den
+    vergangenen Abschlussprüfungen gewesen.
+    Viele Punkte für simples ablesen und Zeichnen.
+
+AUFGABE :
+
+.. image:: https://drive.google.com/uc?export=download&id=1UE0pBbne-PZBqw4kl5cC7_qP79IBhLJ6
+     :alt:  Freigabe benötigt
+
+*LÖSUNGSHINWEISS* :
+
+.. image:: https://drive.google.com/uc?export=download&id=14c_x-MlhiSbUr6CtFjV1yq8MHBQidWmS
+     :alt:  Freigabe benötigt
+
+**
+
+LÖSUNG :
+
+.. image:: https://drive.google.com/uc?export=download&id=17SUPXEmnQu_J1p_Rqpg4HfckAIA5MvIP
+    :alt:  Freigabe benötigt
+
+
+
+.. image:: https://drive.google.com/uc?export=download&id=17SUPXEmnQu_J1p_Rqpg4HfckAIA5MvIP
+     :alt:  Freigabe benötigt
 
  *Seite erstellt: Steffen*
