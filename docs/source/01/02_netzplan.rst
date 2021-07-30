@@ -232,7 +232,6 @@ Schritt 1: Knoten verknüpfen
 .. image:: https://drive.google.com/uc?export=download&id=1wlwj_jbW5cBXypEpEkuwpeFERxjmY0gO
      :alt:  Public
 
-
 Schritt 2:Vorwärtsrechnung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
