@@ -83,8 +83,6 @@ von IHK Prüfungen |:mage:|.
 Merke
 **************************
 
-**Merke dir** :
-
 - Was ein Netzplan ist.
 
 - Wofür man ihn einsetzt.
@@ -95,47 +93,11 @@ Merke
 
 - Die Formeln wirst du definitiv erhalten in der Prüfung.
 
-- Übe einmal das Beispiel hier.
+- Übe einmal das Beispiel hier , dann solltest du fit sein.
 
 ..
 
-Schritt 0 - Prozessschritte
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Eine Tabelle mit Prozesschritten
-ist der Ausgangspunkt in der Prüfung
-woran du dich orientierst und deinen Netzplan
-erstellen wirst.
 
-
-
-===============  ===============           ===================
-Prozesschritte    Dauer in                 Vorher zu beenden
-                  Stunden
----------------  ---------------           -------------------
-===============  ===============           ===================
-A	              2	                       -
-B	              4	                       A
-C	              3	                       B
-D	              2	                       B
-E	              1	                       C, D
-F	              4	                       C
-G	              5	                       E, F
-===============  ===============           ===================
-
-Schritt 1: Knoten verknüpfen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Schritt 2:Vorwärtsrechnung
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Schritt 3:Rückwärtsrechnung
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Schritt 4: Pufferzeiten
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Schritt 5:  Kritischer Weg / Pfad
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :badge:`Vorteile,badge-success`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -230,6 +192,70 @@ LÖSUNGSHINWEISE
     - Quelle 2 : https://www.modu-learn.de/verstehen/management/netzplantechnik/
     - Quelle 3 : Buch -Entwickeln und Bereitstellen von Anwendungssystemen
 
+
+Schritte im Detail
+**********************************
+
+Wir nutzen das Tutorial hier : https://www.modu-learn.de/verstehen/management/netzplantechnik/
+
+Dort wird die Vorgehensweise erklärt.
+Nutze die Anleitung und schaue das du
+die Lösung der IHK Aufgabe damit sicher aufs
+Papier bringst.
+
+Schritt 0 - Tabelle lesen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Eine Tabelle mit Prozesschritten
+ist der Ausgangspunkt in der Prüfung
+woran du dich orientierst und deinen Netzplan
+erstellen wirst.
+
+
+
+===============  ===============           ===================
+Prozesschritte    Dauer in                 Vorher zu beenden
+                  Stunden
+---------------  ---------------           -------------------
+===============  ===============           ===================
+A	              2	                       -
+B	              4	                       A
+C	              3	                       B
+D	              2	                       B
+E	              1	                       C, D
+F	              4	                       C
+G	              5	                       E, F
+===============  ===============           ===================
+
+Schritt 1: Knoten verknüpfen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://drive.google.com/uc?export=download&id=1wlwj_jbW5cBXypEpEkuwpeFERxjmY0gO
+     :alt:  Public
+
+
+Schritt 2:Vorwärtsrechnung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://drive.google.com/uc?export=download&id=14JTMPvgprxMzxfbxXGca22nkLeJGBf1d
+     :alt:  Public
+
+Schritt 3:Rückwärtsrechnung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://drive.google.com/uc?export=download&id=1pdCojbu_wyi36ZPoDsV6S_Qj4YdIfg5N
+     :alt:  Public
+
+Schritt 4: Pufferzeiten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://drive.google.com/uc?export=download&id=1YfTfpVWnSMinqLv_98fuHOmmBFQq8BaL
+     :alt:  Public
+
+Schritt 5:  Kritischer Weg / Pfad
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: https://drive.google.com/uc?export=download&id=1uKxSp4983B03nVSjBDaoG6UG5puGqAMh
+     :alt:  Public
 
 
  *Seite erstellt: Steffen*
