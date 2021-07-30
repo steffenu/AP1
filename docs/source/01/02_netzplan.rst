@@ -208,16 +208,10 @@ AUFGABE
     :alt:  Freigabe benötigt
 
 
-LÖSUNGSHINWEISE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-.. image:: https://drive.google.com/uc?export=download&id=1UE0pBbne-PZBqw4kl5cC7_qP79IBhLJ6
-     :alt:  Freigabe benötigt
 
 
 
-**
+
 
 LÖSUNG
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -226,12 +220,20 @@ LÖSUNG
      :alt:  Freigabe benötigt
 
 
+LÖSUNGSHINWEISE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. image:: https://drive.google.com/uc?export=download&id=1UE0pBbne-PZBqw4kl5cC7_qP79IBhLJ6
+     :alt:  Freigabe benötigt
+
 
 .. tip::
 
     - Quelle 1 : https://de.wikipedia.org/wiki/Netzplantechnik
     - Quelle 2 : https://www.modu-learn.de/verstehen/management/netzplantechnik/
     - Quelle 3 : Buch -Entwickeln und Bereitstellen von Anwendungssystemen
+
 
 
  *Seite erstellt: Steffen*
