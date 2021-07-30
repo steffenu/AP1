@@ -80,10 +80,8 @@ Soll uns aber nicht weiter Stören
 wir nehmen einfach die Darstellung
 von IHK Prüfungen |:mage:|.
 
-Der Ablauf erklärt für AP1
+Merke
 **************************
-
-    *für die Lösung der IHK multiple choice Aufgabe*
 
 **Merke dir** :
 
@@ -93,15 +91,13 @@ Der Ablauf erklärt für AP1
 
 - Die Begriffe FAZ , FEZ , SEZ ... einordnen / unterscheiden können
 
-.. tip::
+- Schritte aus Tabelle ablesen und Knoten verknüpfen
 
-    Für ``AP1`` genügt es die Begriffe zu kennen und den Ablauf
-    grob zu verstehen. Du kannst natürlich vorab üben für ``AP2``.
-    Wenn du aufs IHK Beispiel (vergangene Zwischenprüfung)
-    schaust weist du warum ich meine du kannst erstmal
-    noch locker bleiben.
+- Die Formeln wirst du definitiv erhalten in der Prüfung.
 
+- Übe einmal das Beispiel hier.
 
+..
 
 Schritt 0 - Prozessschritte
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
