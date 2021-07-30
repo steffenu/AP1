@@ -200,14 +200,17 @@ IHK - Beispiel - Abschlussprüfung
     vergangenen Abschlussprüfungen gewesen.
     **Viele Punkte** für simples ablesen und Zeichnen. Gönn dir !
 
-AUFGABE :
+
+AUFGABE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://drive.google.com/uc?export=download&id=17SUPXEmnQu_J1p_Rqpg4HfckAIA5MvIP
     :alt:  Freigabe benötigt
 
 
+LÖSUNGSHINWEISE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*LÖSUNGSHINWEISS* :
 
 .. image:: https://drive.google.com/uc?export=download&id=1UE0pBbne-PZBqw4kl5cC7_qP79IBhLJ6
      :alt:  Freigabe benötigt
@@ -216,17 +219,12 @@ AUFGABE :
 
 **
 
-LÖSUNG :
+LÖSUNG
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: https://drive.google.com/uc?export=download&id=14c_x-MlhiSbUr6CtFjV1yq8MHBQidWmS
      :alt:  Freigabe benötigt
 
-
-
-
-
-.. image:: https://drive.google.com/uc?export=download&id=17SUPXEmnQu_J1p_Rqpg4HfckAIA5MvIP
-     :alt:  Freigabe benötigt
 
 
 .. tip::
